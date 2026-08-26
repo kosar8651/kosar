@@ -16,3 +16,9 @@ root.style.margin="20px auto"
 root.style.backgroundColor="#2b2b2b"
 root.style.border="2px solid red"
 root.style.borderRadius="30px"
+students=["sara" , "ALI", 15,true,18.5]
+console.log(students[0])
+console.log(students[1])
+console.log(students[2])
+console.log(students[3])
+console.log(students[4])
